@@ -1,0 +1,1203 @@
+.doyoo_f_original {
+	overflow: auto !important;
+}
+.doyoo_f_frame {
+	display: none !important;
+}
+.submian {
+	margin: 10px auto; width: 1070px; overflow: hidden;
+}
+.submian ul {
+	width: 1070px; height: 45px; border-bottom-color: rgb(227, 226, 226); border-bottom-width: 0px; border-bottom-style: solid;
+}
+.submian ul li {
+	color: rgb(0, 0, 0); float: left;
+}
+.submian ul li span {
+	padding-left: 8px; font-size: 15px;
+}
+.submian ul li a {
+	line-height: 45px; padding-left: 8px; font-size: 14px;
+}
+.submian ul li a:hover {
+	text-decoration: underline;
+}
+.submian .left-1 {
+	width: 780px; overflow: hidden; float: left;
+}
+.submian .right-1 {
+	width: 250px; overflow: hidden; float: right;
+}
+.submian .left-1 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 780px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .left-1 dl {
+	border: 1px solid rgb(233, 234, 233); width: 780px; overflow: hidden; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .left-1 dl dt {
+	border: 2px solid rgb(233, 234, 233); width: 253px; height: 162px; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; float: left; opacity: 0.9;
+}
+#nb {
+	border: 2px solid rgb(233, 234, 233); width: 253px; height: 186px; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; float: left; opacity: 0.9;
+}
+.submian .left-1 dl dt:hover {
+	opacity: 1;
+}
+.submian .left-1 dl dt img {
+	padding: 3px; width: 253px; height: 162px;
+}
+#nbnb {
+	width: 247px; height: 180px;
+}
+.submian .left-1 dl dd {
+	width: 460px; color: rgb(0, 0, 0); line-height: 20px; padding-left: 20px; float: left;
+}
+.submian .left-1 dl dd h5 {
+	width: 445px; color: rgb(0, 0, 0); line-height: 35px; font-size: 16px; margin-top: 10px; border-bottom-color: rgb(236, 237, 236); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.submian .left-1 dl dd h5 a:hover {
+	text-decoration: underline;
+}
+.submian .left-1 dl dd span {
+	border: 1px solid rgb(209, 210, 209); width: 80px; height: 30px; text-align: center; color: rgb(237, 85, 21); line-height: 30px; float: left; display: block; background-color: rgb(249, 249, 246);
+}
+.submian .left-1 dl .js {
+	margin-top: 10px;
+}
+.submian .left-1 dl .js-2 {
+	margin-top: 60px;
+}
+.submian .left-1 dl dd .sp-1 {
+	margin-left: 205px;
+}
+.submian .left-1 dl dd .sp-2 {
+	border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+.submian .right-1 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 250px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .right-1 h3 span {
+	color: #006600; line-height: 45px; font-size: 12px; float: right;
+}
+.submian .right-1 h3 span a {
+	color: #006600;
+}
+.submian .right-1 h3 span a:hover {
+	text-decoration: underline;
+}
+.submian .right-1 form {
+	border: 2px solid rgb(233, 234, 233); width: 246px; text-align: center; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .right-1 form select {
+	border: currentColor; width: 218px; height: 25px; background-color: rgb(249, 248, 247);
+}
+.submian .right-1 form h4 {
+	color: rgb(0, 0, 0); letter-spacing: 0.3px; font-size: 19px; margin-top: 10px;
+}
+.submian .right-1 form h4 span {
+	color: rgb(234, 85, 20);
+}
+.submian .right-1 form p {
+	text-align: center; color: rgb(117, 117, 119); line-height: 25px; margin-top: 5px; margin-left: 10px;
+}
+.submian .right-1 form .jz {
+	text-align: left;
+}
+.submian .right-1 form input {
+	border: currentColor; width: 203px; height: 28px; color: rgb(185, 185, 186); padding-left: 15px; margin-top: 10px; background-color: rgb(249, 248, 247);
+}
+.submian .right-1 form .but {
+	padding: 0px; height: 42px; color: rgb(255, 255, 255); font-size: 16px; cursor: pointer; background-color: rgb(234, 85, 20);
+}
+.submian .right-1 form .but:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .right-1 {
+	overflow: hidden; margin-top: 10px;
+}
+.submian .right-1 dl {
+	border: 2px solid rgb(225, 226, 225); width: 246px; overflow: hidden; margin-top: 15px; background-color: rgb(255, 255, 255);
+}
+.submian .right-1 dl dt:hover {
+	opacity: 0.9;
+}
+.submian .right-1 dl dd {
+	width: 115px; height: 35px; color: rgb(0, 0, 0); line-height: 35px; overflow: hidden; margin-left: 5px; float: left;
+}
+.submian .fy {
+	padding-top: 30px; clear: both; margin-bottom: 40px; margin-left: 130px; display: table;
+}
+.submian .fy a {
+	border: 1px solid rgb(237, 237, 236); width: 40px; text-align: center; line-height: 40px; font-size: 14px; float: left; display: block;
+}
+.submian .fy .on {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .fy a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .fy .current {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .fy .jk {
+	width: 85px;
+}
+.submian .left-2 {
+	border: 1px solid rgb(241, 241, 241); width: 780px; overflow: hidden; margin-top: 20px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .left-2 h2 {
+	text-align: center; color: rgb(0, 0, 0); line-height: 65px; font-size: 22px;
+}
+.submian .left-2 h5 {
+	width: 682px; overflow: hidden; margin-left: 45px; border-bottom-color: rgb(195, 195, 195); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .left-2 h5 a {
+	border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(223, 223, 223) rgb(223, 223, 223) currentColor; width: 116px; text-align: center; line-height: 40px; font-size: 14px; margin-top: 10px; margin-left: 10px; float: left; display: block;
+}
+.submian .left-2 h5 a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .left-2 h5 .bg {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .left-2 p {
+	width: 750px; color: rgb(0, 0, 0); line-height: 23px; text-indent: 0em; margin-bottom: 15px; margin-left: 20px;
+}
+.submian .left-2 dl {
+	margin: 0px auto; width: 650px;
+}
+.submian .left-2 dl dd {
+	width: 650px; overflow: hidden; border-bottom-color: rgb(201, 198, 197); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.submian .left-2 dl dd span {
+	width: 270px; color: rgb(0, 0, 0); line-height: 35px; margin-left: 55px; float: left; display: block;
+}
+.submian .right-1 .xgbq {
+	width: 246px; overflow: hidden; margin-top: 15px; background-color: rgb(255, 255, 255);
+}
+.submian .right-1 .xgbq h4 {
+	color: rgb(0, 0, 0); line-height: 55px; font-size: 18px; margin-left: 10px;
+}
+.submian .right-1 .xgbq a {
+	padding: 0px 6px; text-align: center; line-height: 35px; margin-top: 15px; margin-bottom: 10px; margin-left: 10px; float: left; display: block; background-color: rgb(248, 248, 248);
+}
+.submian .right-1 .xgbq a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .right-1 .xgbq p {
+	width: 246px; padding-top: 20px; clear: both; border-bottom-color: rgb(148, 149, 148); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .right-1 .xgbq1 {
+	width: 246px; overflow: hidden; margin-top: 15px; background-color: rgb(255, 255, 255);
+}
+.submian .right-1 .xgbq1 h4 {
+	color: rgb(0, 0, 0); line-height: 55px; font-size: 18px; margin-left: 10px;
+}
+.submian .right-1 .xgbq1 a {
+	padding: 0px 6px; text-align: center; line-height: 35px; margin-top: 15px; margin-bottom: 10px; margin-left: 10px; float: left; display: block; background-color: rgb(248, 248, 248);
+}
+.submian .right-1 .xgbq1 a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .right-1 .xgbq1 p {
+	width: 246px; padding-top: 20px; clear: both; border-bottom-color: rgb(148, 149, 148); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.yysq {
+	left: 0px; width: 100%; height: 88px; bottom: 0px; overflow: hidden; margin-top: 15px; margin-bottom: 15px; display: none; position: fixed; background-color: rgb(0, 0, 0);
+}
+.yysq .yy-nei {
+	margin: 0px auto; width: 1170px; height: 88px; overflow: hidden;
+}
+.yysq .yy-nei .wen-1 {
+	margin-top: 20px; float: left;
+}
+.yysq .yy-nei .wen-1 h3 {
+	color: rgb(255, 255, 255); font-size: 19px;
+}
+.yysq .yy-nei .wen-1 p {
+	color: rgb(255, 255, 255); line-height: 25px; font-size: 13px;
+}
+.yysq .yy-nei form {
+	margin-top: 20px; float: right;
+}
+.yysq .yy-nei form input {
+	width: 200px; height: 40px; color: rgb(0, 0, 0); padding-left: 15px; margin-right: 15px;
+}
+.yysq .yy-nei form .but {
+	padding: 0px; border: currentColor; color: rgb(255, 255, 255); font-size: 14px; cursor: pointer; background-color: rgb(234, 85, 20);
+}
+.yysq .yy-nei form .but:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .left-3 {
+	border: 1px solid rgb(241, 241, 241); width: 780px; height: 800px; overflow: hidden; margin-top: 20px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .left-3 .kgd dd {
+	width: 200px; height: 40px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; margin-left: 15px; float: left; cursor: pointer; background-color: rgb(114, 113, 113);
+}
+.submian .left-3 .kgd dd:hover {
+	background-color: #006600;
+}
+.submian .left-3 .kgd .bg {
+	background-color: #006600;
+}
+.submian .left-3 .kgd form {
+	padding-top: 30px; clear: both; margin-left: 125px; display: table;
+}
+.submian .left-3 .kgd form input {
+	border: 1px solid rgb(192, 192, 192); width: 280px; height: 45px; margin-top: 10px; margin-left: 10px;
+}
+.submian .left-3 .kgd form span {
+	color: rgb(0, 0, 0); margin-left: 10px;
+}
+.submian .left-3 .kgd form .tb-1 {
+	margin-left: -14px;
+}
+.submian .left-3 .kgd form .tb-2 {
+	background: url("../images/rlb.png") no-repeat right;
+}
+.submian .left-3 .kgd form .bz {
+	height: 80px;
+}
+.submian .left-3 .kgd form .tb-ys {
+	color: rgb(138, 139, 138);
+}
+.submian .left-3 .kgd form .but-1 {
+	border: currentColor; width: 200px; height: 40px; color: rgb(255, 255, 255); font-size: 14px; margin-left: 70px; cursor: pointer; background-color: rgb(234, 84, 19);
+}
+.submian .left-3 .kgd form .but-1:hover {
+	color: rgb(255, 255, 255); background-color: rgb(230, 0, 18);
+}
+.submian .right-2 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 250px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .right-2 h3 span {
+	color: #006600; line-height: 45px; font-size: 12px; float: right;
+}
+.submian .right-2 h3 span a {
+	color: #006600;
+}
+.submian .right-2 h3 span a:hover {
+	text-decoration: underline;
+}
+.submian .right-2 {
+	width: 250px; overflow: hidden; float: right;
+}
+.submian .right-2 dl {
+	width: 246px; overflow: hidden; margin-top: 20px;
+}
+.submian .right-2 dl dt:hover {
+	opacity: 0.9;
+}
+.submian .right-2 dl dd {
+	width: 250px; margin-top: 10px; margin-bottom: 18px; display: table;
+}
+.submian .right-2 dl dd p {
+	text-align: center; color: rgb(0, 0, 0); line-height: 18px;
+}
+.submian .right-2 dl dd span {
+	border: 1px solid rgb(231, 232, 231); width: 75px; height: 35px; color: rgb(34, 28, 23); line-height: 35px; padding-left: 5px; float: left; display: block; background-color: rgb(255, 255, 255);
+}
+.submian .right-2 dl dd > span:nth-child(2n) {
+	border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+.submian .right-2 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 250px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .right-2 h3 span {
+	color: #006600; line-height: 45px; font-size: 12px; float: right;
+}
+.submian .right-2 h3 span a {
+	color: #006600;
+}
+.submian .right-2 h3 span a:hover {
+	text-decoration: underline;
+}
+.submian .right-2 form {
+	border: 2px solid rgb(233, 234, 233); width: 246px; text-align: center; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .right-2 form h4 {
+	color: rgb(0, 0, 0); letter-spacing: 0.3px; font-size: 19px; margin-top: 10px;
+}
+.submian .right-2 form h4 span {
+	color: rgb(234, 85, 20);
+}
+.submian .right-2 form p {
+	text-align: center; color: rgb(117, 117, 119); line-height: 25px; margin-top: 5px; margin-left: 10px;
+}
+.submian .right-2 form .jz {
+	text-align: left;
+}
+.submian .right-2 form input {
+	border: currentColor; width: 203px; height: 28px; color: rgb(185, 185, 186); padding-left: 15px; margin-top: 10px; background-color: rgb(249, 248, 247);
+}
+.submian .right-2 form .but {
+	padding: 0px; height: 42px; color: rgb(255, 255, 255); font-size: 16px; cursor: pointer; background-color: rgb(234, 85, 20);
+}
+.submian .right-2 form .but:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .left-4 {
+	width: 780px; overflow: hidden; float: left;
+}
+.submian .left-4 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 780px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .left-4 dl {
+	border: 1px solid rgb(233, 234, 233); width: 780px; overflow: hidden; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .left-4 dl dt {
+	border: 2px solid rgb(233, 234, 233); width: 275px; height: 207px; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; float: left; opacity: 0.9;
+}
+.submian .left-4 dl dt:hover {
+	opacity: 1;
+}
+.submian .left-4 dl dt img {
+	padding: 3px;
+}
+.submian .left-4 dl dd {
+	width: 460px; color: rgb(0, 0, 0); line-height: 20px; overflow: hidden; padding-left: 20px; float: left;
+}
+.submian .left-4 dl dd h5 {
+	width: 445px; color: rgb(0, 0, 0); line-height: 35px; font-size: 16px; margin-top: 10px; border-bottom-color: rgb(236, 237, 236); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.submian .left-4 dl dd h5 a:hover {
+	text-decoration: underline;
+}
+.submian .left-4 dl dd span {
+	border: 1px solid rgb(209, 210, 209); width: 80px; height: 30px; text-align: center; color: rgb(237, 85, 21); line-height: 30px; float: left; display: block; background-color: rgb(249, 249, 246);
+}
+.submian .left-4 dl dd p {
+	width: 200px; margin-top: 15px; float: left;
+}
+.submian .left-4 dl .js {
+	margin-top: 10px;
+}
+.submian .left-4 dl .js-2 {
+	margin-top: 60px;
+}
+.submian .left-4 dl .js-2 a {
+	border-radius: 5px; width: 82px; height: 25px; text-align: center; color: rgb(255, 255, 255); line-height: 25px; margin-left: 10px; float: left; display: block; background-color: rgb(114, 113, 113);
+}
+.submian .left-4 dl .js-2 a:hover {
+	background-color: rgb(234, 85, 20);
+}
+.submian .left-4 dl .js-2 .tb-3 {
+	margin-left: 170px;
+}
+.submian .left-5 {
+	border: 1px solid rgb(241, 241, 241); width: 780px; overflow: hidden; padding-bottom: 20px; margin-top: 20px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .left-5 h3 {
+	text-align: center; color: rgb(0, 0, 0); line-height: 60px; font-size: 22px; margin-top: 10px; border-bottom-color: rgb(184, 185, 184); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.submian .left-5 h6 {
+	text-align: center; line-height: 35px;
+}
+.submian .left-5 h3 p {
+	text-align: center; color: rgb(0, 0, 0); font-size: 22px; display: block;
+}
+.submian .left-5 h3 span {
+	color: rgb(113, 114, 113); line-height: 25px; margin-right: 15px; float: right;
+}
+.submian .left-5 .nei-5 {
+	width: 670px; margin-top: 10px; margin-left: 55px; border-bottom-color: rgb(199, 199, 196); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .left-5 .nei-5 p {
+	color: rgb(0, 0, 0); line-height: 23px; text-indent: 0em; margin-top: 15px;
+}
+.submian .left-5 dl {
+	margin: 30px auto 0px; width: 670px; overflow: hidden;
+}
+.submian .left-5 dl dd {
+	color: rgb(0, 0, 0); float: left;
+}
+.submian .left-5 dl dd a:hover {
+	color: rgb(236, 30, 37);
+}
+.submian .right-4 {
+	width: 250px; overflow: hidden; float: right;
+}
+.submian .right-4 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 250px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .right-4 h3 span {
+	color: #006600; line-height: 45px; font-size: 12px; float: right;
+}
+.submian .right-4 h3 span a {
+	color: #006600;
+}
+.submian .right-4 h3 span a:hover {
+	text-decoration: underline;
+}
+.submian .right-4 form {
+	border: 2px solid rgb(233, 234, 233); width: 246px; text-align: center; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .right-4 form h4 {
+	color: rgb(0, 0, 0); letter-spacing: 0.3px; font-size: 19px; margin-top: 10px;
+}
+.submian .right-4 form h4 span {
+	color: rgb(234, 85, 20);
+}
+.submian .right-4 form p {
+	text-align: center; color: rgb(117, 117, 119); line-height: 25px; margin-top: 5px; margin-left: 10px;
+}
+.submian .right-4 form .jz {
+	text-align: left;
+}
+.submian .right-4 form input {
+	border: currentColor; width: 203px; height: 28px; color: rgb(185, 185, 186); padding-left: 15px; margin-top: 10px; background-color: rgb(249, 248, 247);
+}
+.submian .right-4 form .but {
+	padding: 0px; height: 42px; color: rgb(255, 255, 255); font-size: 16px; cursor: pointer; background-color: rgb(234, 85, 20);
+}
+.submian .right-4 form .but:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .right-4 dl {
+	width: 246px; overflow: hidden; margin-top: 20px;
+}
+.submian .right-4 dl dt:hover {
+	opacity: 0.9;
+}
+.submian .right-4 dl dd {
+	width: 250px; margin-top: 10px; margin-bottom: 18px; display: table;
+}
+.submian .right-4 dl dd p {
+	text-align: center; color: rgb(0, 0, 0); line-height: 18px;
+}
+.submian .right-4 dl dd span {
+	border: 1px solid rgb(231, 232, 231); width: 75px; height: 35px; color: rgb(34, 28, 23); line-height: 35px; padding-left: 5px; float: left; display: block; background-color: rgb(255, 255, 255);
+}
+.submian .right-4 dl dd > span:nth-child(2n) {
+	border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+.submian .right-4 .xgbq {
+	width: 246px; overflow: hidden; margin-top: 15px; background-color: rgb(255, 255, 255);
+}
+.submian .right-4 .xgbq h4 {
+	color: rgb(0, 0, 0); line-height: 55px; font-size: 18px; margin-left: 10px;
+}
+.submian .right-4 .xgbq a {
+	padding: 0px 6px; text-align: center; line-height: 35px; margin-top: 15px; margin-bottom: 10px; margin-left: 10px; float: left; display: block; background-color: rgb(248, 248, 248);
+}
+.submian .right-4 .xgbq a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .right-4 .xgbq p {
+	width: 246px; padding-top: 20px; clear: both; border-bottom-color: rgb(148, 149, 148); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .ansx {
+	width: 1170px; overflow: hidden;
+}
+.submian .ansx dl {
+	width: 1170px; height: 40px; overflow: hidden; border-bottom-color: rgb(187, 188, 187); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.submian .ansx dl dt {
+	color: rgb(35, 24, 21); line-height: 40px; margin-left: 100px; float: left;
+}
+.submian .ansx dl dd {
+	margin-top: 8px; margin-left: 5px; float: left;
+}
+.submian .ansx dl dd a {
+	padding: 0px 15px; height: 25px; color: rgb(35, 24, 21); line-height: 25px; display: block;
+}
+.submian .ansx dl dd a:hover {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .ansx dl dd .on {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .ansx dl p {
+	background: url("../images/fh22.png") no-repeat left; width: 70px; height: 40px; color: rgb(0, 0, 0); line-height: 40px; padding-left: 20px; margin-right: 120px; float: right;
+}
+.submian .ansx dl p a:hover {
+	color: #006600;
+}
+.submian .ansx ul li {
+	line-height: 45px; margin-left: 80px;
+}
+.submian .ansx ul li span {
+	font-size: 12px;
+}
+.submian .ansx ul li .xk {
+	background: url("../images/so.png") no-repeat right rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); width: 150px; height: 30px; margin-top: 5px;
+}
+.submian .ansx ul li .but-3 {
+	border: currentColor; width: 80px; height: 32px; color: rgb(255, 255, 255); font-size: 14px; margin-top: 5px; cursor: pointer; background-color: #006600;
+}
+.submian .ansx ul li .but-3:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .anzs {
+	overflow: hidden; margin-top: 10px;
+}
+.submian .anzs dl {
+	border: 2px solid rgb(225, 226, 225); width: 246px; overflow: hidden; margin-top: 15px; margin-left: 15px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .anzs dl dt:hover {
+	opacity: 0.9;
+}
+.submian .anzs dl dd {
+	width: 107px; height: 23px; color: rgb(0, 0, 0); line-height: 23px; overflow: hidden; margin-left: 7px; float: left;
+}
+.submian .fy-2 {
+	margin: 30px auto 60px; padding-top: 60px; clear: both; display: table;
+}
+.submian .fy-2 a {
+	border: 1px solid rgb(237, 237, 236); width: 40px; text-align: center; line-height: 40px; font-size: 14px; float: left; display: block;
+}
+.submian .fy-2 a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .fy-2 .current {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .fy-2 .jk {
+	width: 85px;
+}
+.submian .left-6 {
+	width: 780px; overflow: hidden; margin-top: 10px; float: left;
+}
+.submian .left-6 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 780px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 22px; margin-top: 10px;
+}
+.submian .left-6 dl {
+	border: 1px solid rgb(233, 234, 233); width: 780px; overflow: hidden; margin-top: 20px; background-color: rgb(255, 255, 255);
+}
+.submian .left-6 dl dt {
+	border: 2px solid rgb(233, 234, 233); width: 275px; height: 207px; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; float: left; opacity: 0.9;
+}
+.submian .left-6 dl dt:hover {
+	opacity: 1;
+}
+.submian .left-6 dl dt img {
+	padding: 3px;
+}
+.submian .left-6 dl dd {
+	width: 460px; color: rgb(0, 0, 0); line-height: 20px; overflow: hidden; padding-left: 20px; float: left;
+}
+.submian .left-6 dl dd h5 {
+	width: 445px; color: rgb(0, 0, 0); line-height: 35px; font-size: 16px; margin-top: 10px; border-bottom-color: rgb(236, 237, 236); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.submian .left-6 dl dd h5 a:hover {
+	text-decoration: underline;
+}
+.submian .left-6 dl dd span {
+	color: rgb(230, 2, 18); padding-left: 15px;
+}
+.submian .left-6 dl .js {
+	margin-top: 10px;
+}
+.submian .left-6 dl dd span a {
+	color: rgb(230, 2, 18);
+}
+.submian .left-6 dl dd span a:hover {
+	text-decoration: underline;
+}
+.submian .left-7 {
+	border: 1px solid rgb(241, 241, 241); width: 780px; overflow: hidden; margin-top: 20px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .left-7 h2 {
+	text-align: center; color: rgb(0, 0, 0); line-height: 60px; font-size: 22px; margin-top: 10px; border-bottom-color: rgb(184, 185, 184); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.submian .left-7 h6 {
+	text-align: center; line-height: 35px;
+}
+.submian .left-7 p {
+	width: 730px; color: rgb(0, 0, 0); line-height: 23px; margin-top: 15px; margin-bottom: 15px; margin-left: 25px;
+}
+.submian .left-7 h4 {
+	color: rgb(234, 85, 20); font-size: 15px; margin-top: 20px; margin-left: 75px;
+}
+.submian .plk {
+	border: 1px solid rgb(241, 241, 241); width: 780px; overflow: hidden; margin-top: 15px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .plk h4 {
+	background: url("../images/xinxi.png") no-repeat left; width: 500px; height: 21px; color: rgb(73, 72, 72); padding-left: 35px; font-size: 16px; margin-top: 15px; margin-left: 30px;
+}
+.submian .plk form input {
+	border: currentColor; width: 200px; height: 33px; color: rgb(89, 90, 89); line-height: 33px; padding-left: 10px; margin-top: 10px; margin-left: 30px; background-color: rgb(248, 249, 248);
+}
+.submian .plk form span {
+	color: rgb(0, 0, 0); padding-left: 8px;
+}
+.submian .plk form .pl-k {
+	width: 710px; height: 84px; margin-top: 13px; margin-left: 31px;
+}
+.submian .plk form .but-4 {
+	padding: 0px; width: 100px; height: 30px; color: rgb(255, 255, 255); line-height: 30px; margin-top: -20px; margin-right: 29px; margin-bottom: 10px; float: right; cursor: pointer; background-color: rgb(234, 86, 19);
+}
+.submian .plk form .but-4:hover {
+	background-color: rgb(231, 14, 28);
+}
+.submian .plk form .bq {
+	background: url("../images/2015-06-03_172718.png") no-repeat left; width: 100px; height: 30px; line-height: 30px; padding-left: 25px; font-size: 14px; margin-top: 10px; margin-left: 25px; display: block;
+}
+.submian .plk h6 {
+	width: 720px; height: 35px; color: rgb(235, 97, 37); line-height: 35px; font-size: 15px; margin-top: 15px; margin-left: 25px; border-bottom-color: rgb(201, 198, 196); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .plk p span {
+	padding: 0px 10px;
+}
+.submian .plk dl {
+	overflow: hidden; margin-top: 15px; margin-bottom: 25px; margin-left: 25px; border-bottom-color: rgb(198, 199, 198); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.submian .plk dl dt {
+	background: url("../images/fangzi.png") no-repeat; width: 42px; height: 42px; margin-bottom: 15px; float: left;
+}
+.submian .plk dl dd {
+	width: 600px; color: rgb(238, 108, 51); font-size: 14px; margin-left: 20px; float: left;
+}
+.submian .plk dl dd span {
+	color: rgb(159, 160, 159); padding-left: 20px; font-size: 12px;
+}
+.submian .plk dl dd h5 {
+	border: currentColor; color: rgb(0, 0, 0); font-size: 13px; margin-top: 8px; float: right;
+}
+.submian .plk dl dd h5 a:hover {
+	text-decoration: underline;
+}
+.submian .plk dl dd p {
+	color: rgb(153, 153, 153); font-size: 12px;
+}
+.submian .right-1 .g-ban {
+	margin-top: 10px;
+}
+.submian .pssj {
+	overflow: hidden; margin-top: 8px;
+}
+.submian .pssj dl {
+	width: 452px; margin-top: 15px; margin-left: 55px; float: left;
+}
+.submian .pssj dl dt {
+	border: 1px solid rgb(201, 202, 202); width: 185px; height: 245px; float: left;
+}
+.submian .pssj dl dt img {
+	padding: 2px;
+}
+.submian .pssj dl dd {
+	width: 252px; float: right;
+}
+.submian .pssj dl dd p {
+	color: rgb(37, 37, 37); line-height: 23px; margin-top: 5px; border-bottom-color: rgb(207, 208, 208); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .pssj dl dd a {
+	border-radius: 5px; width: 99px; height: 25px; text-align: center; color: rgb(255, 255, 255); line-height: 25px; margin-top: 58px; margin-left: 20px; float: left; display: block; background-color: rgb(114, 112, 113);
+}
+.submian .pssj dl dd a:hover {
+	background-color: rgb(234, 85, 20);
+}
+.content {
+	margin: 0px auto; width: 1070px; overflow: hidden;
+}
+.content .left_1 {
+	width: 730px; overflow: hidden; float: left;
+}
+.content .left_1 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 730px; height: 45px; color: rgb(0, 0, 0); line-height: 45px; font-size: 22px; margin-top: 15px;
+}
+.content .left_1 h3 span {
+	padding-left: 25px;
+}
+.content .left_1 .Scroller-Container {
+	width: 730px; overflow: hidden; margin-top: 20px;
+}
+.content .left_1 .Scroller-Container dt {
+	border: 1px solid rgb(225, 226, 223); width: 242px; height: 318px; float: left;
+}
+.content .left_1 .Scroller-Container dt img {
+	padding: 3px;
+}
+.content .left_1 .Scroller-Container dd {
+	width: 465px; height: 302px; margin-top: 15px; margin-left: 20px; float: left; overflow-y: scroll;
+}
+.content .left_1 .Scroller-Container dd p {
+	color: rgb(1, 1, 0); line-height: 25px; font-size: 13px; border-bottom-color: rgb(225, 226, 223); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.content .left_1 .Scroller-Container dd .jcd {
+	font-size: 14px; font-weight: bold;
+}
+.content .left_1 .Scroller-Container dd h5 {
+	color: rgb(1, 1, 0); font-size: 14px; margin-top: 10px; margin-bottom: 5px;
+}
+.content .left_1 .zx {
+	width: 730px; overflow: hidden; clear: both; margin-top: 15px; border-bottom-color: rgb(170, 171, 171); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.content .left_1 .zx a {
+	border-radius: 5px; width: 99px; height: 25px; text-align: center; color: rgb(255, 255, 255); line-height: 25px; margin-right: 10px; margin-bottom: 15px; float: left; display: block; background-color: rgb(234, 86, 19);
+}
+.content .left_1 .zx a:hover {
+	background-color: rgb(237, 28, 36);
+}
+.content .left_1 .zx .zxz {
+	margin-left: 280px;
+}
+.content .left_1 .alzs-1 {
+	margin-top: 15px;
+}
+.content .left_1 #list {
+	width: 740px; clear: both; float: left;
+}
+.content .left_1 #list dl {
+	border: 2px solid rgb(225, 226, 225); width: 230px; overflow: hidden; margin-top: 15px; margin-right: 12px; float: left; background-color: rgb(255, 255, 255);
+}
+.content .left_1 #list dl dt:hover {
+	opacity: 0.9;
+}
+.content .left_1 #list dl dd {
+	width: 100px; height: 35px; color: rgb(0, 0, 0); line-height: 35px; overflow: hidden; margin-left: 5px; float: left;
+}
+.content .right_1 {
+	width: 310px; overflow: hidden; margin-top: 15px; float: right;
+}
+.content .right_1 h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 20px;
+}
+.content .right_1 .bk {
+	border: 1px solid rgb(201, 202, 202); width: 300px; margin-top: 20px; margin-left: 5px; background-color: rgb(255, 255, 255);
+}
+.content .right_1 .bk dl {
+	width: 280px; overflow: hidden; margin-top: 15px; margin-left: 8px; border-bottom-color: rgb(201, 202, 202); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.content .right_1 .bk dl dt {
+	border: 1px solid rgb(201, 202, 202); width: 100px; height: 126px; margin-bottom: 15px; float: left;
+}
+.content .right_1 .bk dl dd {
+	width: 145px; color: rgb(0, 0, 0); margin-top: 5px; margin-left: 15px; float: left;
+}
+.content .right_1 p {
+	margin-top: 25px; margin-left: 6px;
+}
+.submian .fy-3 {
+	margin-left: 100px;
+}
+.submian .fy-3 .current {
+	color: rgb(255, 255, 255); background-color: rgb(234, 85, 20);
+}
+.submian .dylg {
+	width: 248px; margin-top: 25px; float: left; background-color: rgb(255, 255, 255);
+}
+.submian .dylg h3 {
+	text-align: center; margin-top: 10px;
+}
+.submian .dylg p a {
+	height: 40px; text-align: center; line-height: 40px; font-size: 14px; border-bottom-color: rgb(207, 208, 208); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.submian .dylg p .on {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .dylg p a:hover {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .dynr {
+	width: 755px; overflow: hidden; margin-top: 25px; float: right;
+}
+.submian .dynr h3 {
+	color: rgb(0, 0, 0); line-height: 55px; font-size: 21px; border-bottom-color: rgb(170, 171, 171); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .dynr p {
+	color: rgb(0, 0, 0); line-height: 23px; margin-top: 25px;
+}
+.submian .dynr .khpl {
+	width: 755px; overflow: hidden; margin-top: 30px; margin-bottom: 50px; background-color: rgb(255, 255, 255);
+}
+.submian .dynr .khpl dl {
+	width: 335px; margin-top: 15px; margin-bottom: 15px; margin-left: 20px; float: left;
+}
+.submian .dynr .khpl dl dt {
+	border-radius: 80px; width: 150px; height: 150px; overflow: hidden; margin-left: 80px;
+}
+.submian .dynr .khpl dl dd {
+	width: 300px; line-height: 23px; margin-top: 10px;
+}
+.submian .dynr .khpl dl dd h4 {
+	text-align: center; color: rgb(89, 87, 87); font-size: 14px; font-weight: bold;
+}
+.submian .dynr .khpl dl dd a {
+	width: 99px; height: 30px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; float: right; display: block; background-color: #006600;
+}
+.submian .dynr .khpl dl dd a:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .dynr .khpl p {
+	height: 240px; border-right-color: rgb(211, 212, 212); border-right-width: 1px; border-right-style: solid; float: left;
+}
+.submian .jrus {
+	width: 755px; overflow: hidden; margin-bottom: 15px; float: right;
+}
+.submian .jrus h3 {
+	border-bottom-color: rgb(202, 202, 202); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .jrus h3 img {
+	margin-bottom: 20px;
+}
+.submian .jrus h4 {
+	color: rgb(0, 0, 0); font-size: 21px; margin-top: 15px;
+}
+.submian .jrus h3 {
+	line-height: 23px; overflow: hidden; margin-top: 15px; border-bottom-color: rgb(202, 202, 202); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .jrus h3 a {
+	padding: 5px 10px; font-size: 14px; margin-right: 15px; margin-bottom: 10px; float: left; display: block;
+}
+.submian .jrus h3 a:hover {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .jrus h3 .bg {
+	color: rgb(255, 255, 255); background-color: #006600;
+}
+.submian .jrus .kzz span {
+	color: rgb(0, 0, 0); line-height: 23px; font-size: 18px; margin-top: 15px; display: block;
+}
+.submian .jrus .kzz ul {
+	border: currentColor; width: 100%; margin-top: 25px; display: table;
+}
+.submian .jrus .kzz ul li {
+	line-height: 25px; clear: both; font-size: 14px;
+}
+.submian .jrus .kzz ul li h6 {
+	font-size: 15px;
+}
+.submian .jsq-3 {
+	width: 248px; overflow: hidden; margin-top: 10px;
+}
+.submian .jsq-3 p {
+	width: 247px; height: 55px; margin-top: 2px;
+}
+.submian .jsq-3 p a {
+	width: 247px; height: 55px; text-align: center; color: rgb(255, 255, 255); line-height: 55px; font-size: 16px; display: block;
+}
+.submian .jsq-3 p .bg-1 {
+	background: url("../images/ky-6.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-1:hover {
+	background: url("../images/ky-6.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .bg-2 {
+	background: url("../images/ky-5.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-2:hover {
+	background: url("../images/ky-5.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .bg-3 {
+	background: url("../images/ky-4.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-3:hover {
+	background: url("../images/ky-4.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .bg-4 {
+	background: url("../images/ky-3.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-4:hover {
+	background: url("../images/ky-3.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .bg-5 {
+	background: url("../images/ky-2.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-5:hover {
+	background: url("../images/ky-2.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .bg-6 {
+	background: url("../images/ky-1.png") no-repeat 30px rgb(181, 182, 181);
+}
+.submian .jsq-3 p .bg-6:hover {
+	background: url("../images/ky-1.png") no-repeat 30px rgb(211, 161, 17);
+}
+.submian .jsq-3 p .on {
+	background-color: rgb(211, 161, 17);
+}
+.submian .right-1 h1 {
+	margin-top: 15px; margin-left: 2px;
+}
+.submian .gjsq {
+	border: 1px solid rgb(232, 232, 229); width: 755px; overflow: hidden; margin-top: 40px; margin-bottom: 30px; float: right;
+}
+.submian .gjsq h3 {
+	background: url("../images/dx_03.png") no-repeat 0px bottom; width: 510px; height: 45px; color: rgb(0, 0, 0); line-height: 35px; font-size: 18px; margin-top: 15px; margin-left: 100px;
+}
+.submian .gjsq h4 {
+	width: 510px; height: 35px; color: rgb(0, 0, 0); line-height: 35px; font-size: 15px; margin-top: 30px; margin-left: 100px; border-bottom-color: rgb(227, 226, 226); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian .gjsq form {
+	color: rgb(0, 0, 0); font-size: 14px;
+}
+.submian .gjsq form p {
+	margin-top: 20px;
+}
+.submian .gjsq form span {
+	color: rgb(0, 0, 0); font-size: 14px; margin-left: 100px;
+}
+.submian .gjsq form .txt {
+	border: 1px solid rgb(190, 189, 189); width: 152px; height: 30px; line-height: 30px; padding-left: 15px;
+}
+.submian .gjsq form h4 {
+	margin-top: 50px;
+}
+.submian .gjsq h6 {
+	color: rgb(230, 0, 18); letter-spacing: 0.3px; margin-top: 20px; margin-left: 100px;
+}
+.submian .gjsq form h6 {
+	color: rgb(230, 0, 18); margin-top: 20px; margin-left: 100px;
+}
+.submian .gjsq form input {
+	margin-right: 5px;
+}
+.submian .gjsq form .but {
+	border: currentColor; width: 99px; height: 30px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; margin-top: 30px; margin-left: 20px; cursor: pointer; background-color: rgb(181, 181, 182);
+}
+.submian .gjsq form .but:hover {
+	background-color: rgb(213, 4, 17);
+}
+.submian .gjsq form .but1 {
+	margin-left: 100px; background-color: rgb(234, 85, 20);
+}
+.submian .gjsq form h5 {
+	border: 1px solid rgb(230, 0, 18); width: 510px; height: 30px; color: rgb(230, 0, 18); line-height: 30px; padding-left: 20px; margin-top: 30px; margin-bottom: 60px; margin-left: 100px;
+}
+.submian .gjsq form select {
+	width: 100px; height: 30px; line-height: 30px;
+}
+.submian .gjsq form .rad {
+	margin-left: 100px;
+}
+.submian .gjsq form .rad-1 {
+	margin-top: 40px;
+}
+.submian .ban-q {
+	width: 780px; overflow: hidden; margin-top: 10px; float: left;
+}
+.submian .ban-q .basm {
+	width: 780px; overflow: hidden; background-color: rgb(255, 255, 255);
+}
+.submian .ban-q .basm h2 {
+	height: 30px; color: rgb(255, 255, 255); line-height: 30px; padding-left: 30px; font-size: 14px; background-color: rgb(62, 59, 57);
+}
+.submian .ban-q .basm .neii {
+	width: 215px; overflow: hidden; margin-top: 5px; border-right-color: rgb(167, 166, 166); border-right-width: 1px; border-right-style: dashed;
+}
+.submian .ban-q .basm .neii p {
+	color: rgb(0, 0, 0); font-size: 13px; margin-top: 15px; margin-left: 15px;
+}
+.submian .ban-q .basm .neii p a {
+	width: 70px; height: 25px; text-align: center; color: rgb(255, 255, 255); line-height: 25px; margin-bottom: 15px; margin-left: 5px; float: left; display: block; background-color: rgb(234, 85, 20);
+}
+.submian .ban-q .basm .neii p a:hover {
+	background-color: rgb(237, 28, 36);
+}
+.submian .ban-q .bg-bg {
+	position: relative;
+}
+.submian .ban-q .basm .nei_ry {
+	width: 522px; margin-top: -210px; margin-right: 30px; float: right; position: relative;
+}
+.submian .ban-q .basm .nei_ry .nei-cont {
+	width: 549px; height: 170px; overflow-y: scroll;
+}
+.submian .ban-q .basm .nei_ry .nei-cont p {
+	color: rgb(0, 0, 0); line-height: 25px; font-size: 13px; margin-top: 10px;
+}
+.submian .ban-q .basm .nei_ry .Scroller-Container {
+	top: 0px; right: 0px; visibility: visible !important; position: absolute;
+}
+.submian .ban-q .basm .nei_ry .Scrollbar-Track {
+	top: 10px; width: 10px; height: 170px; right: -27px; position: absolute;
+}
+.submian .ban-q .basm .nei_ry .Scrollbar-Handle {
+	left: -3px; top: 0px; width: 10px; height: 20px; position: absolute;
+}
+.submian .ban-q .zd-1 h2 {
+	color: rgb(51, 51, 51); padding-top: 10px; padding-bottom: 10px; font-size: 19px;
+}
+.daImg2 {
+	width: 780px; margin-bottom: 50px; float: left; display: table; position: relative;
+}
+.daImg2 .da {
+	width: 780px; height: 502px; overflow: hidden;
+}
+.daImg2 .da ul li {
+	margin: 0px auto; width: 780px; height: 502px; position: relative;
+}
+.daImg2 .da ul li p {
+	left: 0px; width: 780px; height: 90px; bottom: 0px; position: absolute; background-color: rgba(0, 0, 0, 0.5);
+}
+.daImg2 .da ul li p span {
+	width: 650px; color: rgb(255, 255, 255); line-height: 25px; font-size: 14px; margin-top: 15px; margin-left: 20px; display: block;
+}
+.daImg2 .da ul li img {
+	width: 780px; display: block;
+}
+.daImg2 .xiao {
+	margin: 20px auto 38px 178px; width: 428px; height: 115px; text-align: center; overflow: hidden; position: relative;
+}
+.daImg2 .xiao p {
+	width: 1500px; display: table;
+}
+.daImg2 .xiao span {
+	padding: 1px; border: 1px solid rgb(209, 220, 235); width: 133px; height: 105px; color: rgb(39, 68, 110); line-height: 35px; font-size: 13px; margin-right: 5px; float: left; display: block;
+}
+.daImg2 .xiao span.hover {
+	padding: 0px; border: 4px solid rgb(138, 139, 138);
+}
+.daImg2 .xiao span img {
+	margin: 3px auto; display: block;
+}
+.daImg2 .lc {
+	background: url("../images/left1.png") no-repeat; left: 140px; top: 550px; width: 34px; height: 34px; margin-left: 0px; position: absolute; cursor: pointer;
+}
+.daImg2 .rc {
+	background: url("../images/right1.png") no-repeat; top: 550px; width: 34px; height: 34px; right: 138px; margin-left: 0px; position: absolute; cursor: pointer;
+}
+.daImg2 .lc2 {
+	background: url("../images/lft_ico.png") no-repeat; left: -1px; top: 225px; width: 51px; height: 156px; margin-left: 0px; position: absolute; cursor: pointer;
+}
+.daImg2 .rc2 {
+	background: url("../images/rit_ico.png") no-repeat; top: 225px; width: 51px; height: 156px; right: -2px; margin-left: 0px; position: absolute; cursor: pointer;
+}
+.daImg2 a {
+	margin: 0px auto 0px 150px; width: 205px; height: 46px; display: block;
+}
+.daImg2 a:hover {
+	opacity: 0.9; -moz-opacity: 0.9;
+}
+.daImg2 h3 {
+	left: 0px; bottom: 0px; position: absolute;
+}
+.daImg2 h3 a {
+	border-radius: 8px; border: 1px solid rgb(181, 182, 181); height: 25px; text-align: center; line-height: 25px; margin-top: 15px; margin-left: 10px; display: block; background-color: rgb(239, 240, 239);
+}
+.daImg2 h3 img {
+	border: 4px solid rgb(139, 140, 140);
+}
+.daImg2 h3 a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(138, 139, 138);
+}
+.daImg2 h4 {
+	right: 0px; bottom: 0px; position: absolute;
+}
+.daImg2 h4 a {
+	border-radius: 8px; border: 1px solid rgb(181, 182, 181); height: 25px; text-align: center; line-height: 25px; margin-top: 15px; margin-left: -71px; display: block; background-color: rgb(239, 240, 239);
+}
+.daImg2 h4 img {
+	border: 4px solid rgb(139, 140, 140);
+}
+.daImg2 h4 a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(138, 139, 138);
+}
+.daImg2 .da ul li.dis {
+	display: none;
+}
+.submian .mzbj {
+	width: 260px; margin-top: 10px; float: right; position: relative;
+}
+#right_1 h6 {
+	width: 240px; height: 40px; line-height: 40px; background-color: rgb(234, 86, 19);
+}
+#right_1 h6 a {
+	text-align: center; color: rgb(255, 255, 255); font-size: 15px; display: block;
+}
+#right_1 h6 a:hover {
+	text-decoration: none; background-color: rgb(237, 27, 35);
+}
+#right_1 h5 {
+	width: 240px; height: 30px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; margin-top: 20px; background-color: rgb(62, 59, 57);
+}
+#right_1 .sjs {
+	border: currentColor;
+}
+#right_1 .sjs dt {
+	border: 2px solid rgb(230, 231, 230); width: 100px; height: 120px; float: left;
+}
+#right_1 .sjs dd {
+	width: 135px; margin-left: 5px; float: left;
+}
+#right_1 .sjs dd p {
+	line-height: 18px; margin-top: 0px;
+}
+#right_1 p a {
+	background: rgb(202, 203, 202); width: 100px; height: 30px; text-align: center; line-height: 30px; margin-top: 10px; margin-right: 10px; margin-bottom: 20px; float: left; display: block;
+}
+#right_1 p a:hover {
+	background: rgb(62, 59, 57); color: rgb(255, 255, 255); text-decoration: none;
+}
+.submian .mzbj .bq-y {
+	left: -180px; top: -35px; position: absolute; z-index: 99999; cursor: pointer;
+}
+.fg-wz {
+	overflow: hidden; padding-top: 25px; margin-bottom: 80px; display: table;
+}
+.fg-wz h3 {
+	width: 790px; color: rgb(0, 0, 0); font-size: 15px; margin-top: 15px; float: left;
+}
+.fg-wz h3 a {
+	padding: 0px 10px; text-align: center; color: rgb(255, 255, 255); line-height: 25px; font-size: 12px; margin-top: -5px; float: right; background-color: rgb(35, 24, 21);
+}
+.fg-wz h3 a:hover {
+	text-decoration: underline;
+}
+.fg-wz dl {
+	width: 246px; margin-top: 15px; margin-right: 20px; float: left; background-color: rgb(255, 255, 255);
+}
+.fg-wz dl dt:hover {
+	opacity: 0.9;
+}
+.fg-wz dl dd {
+	width: 112px; height: 35px; color: rgb(0, 0, 0); line-height: 35px; overflow: hidden; margin-left: 11px; float: left;
+}
+.quy .qu {
+	border: 1px solid rgb(182, 181, 180); width: 760px; overflow: hidden; margin-top: 25px;
+}
+.quy .qu h5 {
+	width: 60px; height: 100px; text-align: center; color: rgb(0, 0, 0); line-height: 100px; font-size: 14px; font-weight: bold; border-right-color: rgb(203, 203, 203); border-right-width: 1px; border-right-style: solid; float: left; background-color: rgb(232, 232, 232);
+}
+.quy .qu p {
+	margin-top: 20px; margin-left: 20px; float: left;
+}
+.quy .qu p a {
+	color: rgb(65, 65, 64); font-size: 13px;
+}
+.quy .qu p a:hover {
+	text-decoration: underline;
+}
+.quy h2 {
+	width: 760px; overflow: hidden; margin-top: 40px; background-color: rgb(232, 232, 232);
+}
+.quy h2 span {
+	color: rgb(1, 1, 1); line-height: 40px; font-size: 14px; font-weight: bold; margin-left: 70px; float: left; display: block;
+}
+.quy table {
+	border: currentColor; width: 760px; overflow: hidden; margin-top: 20px;
+}
+.quy table th {
+	color: rgb(0, 0, 0); line-height: 35px; font-size: 14px;
+}
+.quy table td {
+	border-color: rgb(232, 232, 232); width: 170px; height: 55px; text-align: center; color: rgb(0, 0, 0); line-height: 40px; border-top-width: medium; border-right-width: medium; border-left-width: medium; border-top-style: none; border-right-style: none; border-left-style: none;
+}
+.quy table td a {
+	width: 77px; color: rgb(255, 255, 255); line-height: 30px; display: block; background-color: rgb(234, 85, 20);
+}
+.quy table td a:hover {
+	background-color: rgb(237, 31, 38);
+}
+#lxus {
+	margin: 20px auto; width: 1148px; color: rgb(0, 0, 0); line-height: 35px; font-size: 20px; border-bottom-color: rgb(199, 199, 196); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.submian1 .xianshi_yin h1 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.left-3 .nei-2 #form2 #sjs {
+	width: 280px; height: 45px; margin-left: 5px;
+}
+.right-4 #form1 #sjs {
+	width: 220px; height: 28px;
+}
+.zd-1 .daImg2 .da ul li {
+	text-align: center; line-height: 502px;
+}
+.zd-1 .daImg2 .da ul li p {
+	text-align: left; line-height: 25px;
+}
+.zd-1 .daImg2 .da ul li img {
+	width: auto; height: auto; vertical-align: middle; display: inline; max-height: 502px; max-width: 100%;
+}
